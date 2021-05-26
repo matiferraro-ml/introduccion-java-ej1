@@ -1,2 +1,5 @@
 # introduccion-java-ej1
-Participantes: Ferraro Matías, Festa Georgina, Miceli Juan Pablo
+Participantes:
+- Ferraro, Matías
+- Festa, Georgina
+- Miceli, Juan Pablo
